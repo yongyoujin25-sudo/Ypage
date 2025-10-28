@@ -3,7 +3,7 @@ let ball2;
 
 
 function setup() {
-  createCanvas(400, 400); 
+  createCanvas(400, 500); 
   ball = new Walker();
   ball2 = new Walker();
 }
