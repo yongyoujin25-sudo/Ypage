@@ -5,8 +5,8 @@
 - 저는 눕기, 먹기, 강아지를 좋아합니다.
 
 ## 예제 코드
-''' javascript
+``` javascript
 function setup(){
 createCanvas(100,100);
 }
-'''
+```
