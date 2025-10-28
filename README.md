@@ -3,6 +3,7 @@
 
 - **용유진** yongyoujin25@gmail.com
 - 저는 눕기, 먹기, 강아지를 좋아합니다.
+OHYEAH
 
 ## 예제 코드
 ``` javascript
